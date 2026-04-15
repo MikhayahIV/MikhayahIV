@@ -72,15 +72,6 @@ Sou profundamente focado em **arquitetura de software (Clean Arch & Layered)**, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MikhayahIV&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhayahIV&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Filosofia
 
 > *"Código limpo e arquitetura bem definida não são luxos, são a base para sistemas que geram valor real e escalam com segurança."*
