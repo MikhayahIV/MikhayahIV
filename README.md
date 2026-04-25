@@ -1,77 +1,24 @@
-# Hi 👋, I'm Vitor Blaia
+# 💫 About Me:
+🔭 I'm currently working on<br><br>Backend APIs with Java 21 + Spring Boot 3, applying Clean Architecture and SOLID principles in personal engineering projects.<br><br>👯 I'm looking to collaborate on<br><br>Java/Spring Boot backend projects, REST API design, or anything involving clean code and well-structured architectures.<br><br>🤝 I'm looking for help with<br><br>Cloud-native patterns on AWS and advanced DevOps practices (CI/CD pipelines, monitoring).<br><br>🌱 I'm currently learning<br><br>Cloud infrastructure with AWS (EC2, S3, RDS), NoSQL databases and integration patterns.<br><br>💬 Ask me about<br><br>Java, Spring Boot, Clean Architecture, REST APIs, Docker, PostgreSQL or SOLID principles.<br><br>⚡ Fun fact<br><br>I actually love Java — yes, genuinely. Most developers just use it; I enjoy it.
 
-🚀 **Junior Software Engineer | Java & Spring Boot**<br />
-🇧🇷 São Paulo, SP 
 
-Desenvolvedor Backend com foco em Java e Spring Boot, especializado na construção de APIs REST seguras e escaláveis. Atualmente cursando Bacharelado em Engenharia de Software.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitor-blaia-1105b8331/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitordb123@gmail.com) 
 
-Eu construo **APIs REST escaláveis**, **backends robustos**, e **sistemas baseados em Clean Architecture**.  
-Sou profundamente focado em **arquitetura de software (Clean Arch & Layered)**, **performance (DTOs)**, e **soluções voltadas ao negócio** como identificação híbrida customizada e preservação de histórico de serviços.
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MikhayahIV&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MikhayahIV&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MikhayahIV&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌐 Onde me encontrar
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MikhayahIV&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left">
-  <a href="https://github.com/MikhayahIV">
-    <img src="https://img.shields.io/badge/GitHub-MikhayahIV-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/vitor-blaia-1105b8331">
-    <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Blaia-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=MikhayahIV&icon=2&color=10)](https://visitcount.itsvg.in)
 
-
-## 🧠 O que eu faço
-
-- ⚡ **Backend Development**: Desenvolvimento de APIs REST com Java 17 e Spring Boot 3. 
-- 🏗️ **Architectural Design**: Aplicação de Clean Architecture e Layered Architecture.
-- 🔐 **Security & Auth**: Implementação de JWT, Spring Security e criptografia BCrypt. 
-- 📊 **Database Management**: Modelagem e persistência com PostgreSQL, MySQL e Flyway. 
-- 🧪 **Quality Assurance**: Testes unitários rigorosos com JUnit 5 e Mockito. 
-
----
-
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
-## 🚀 Projetos em Destaque
-
-* **Workshop17 - Sistema de Oficinas**: API REST com Java 17 e Spring Boot 3, utilizando Command Pattern e identificação híbrida (UUID).
-* **EventClean - Gestão de Eventos**: API estruturada estritamente com Clean Architecture, separando Entities, Use Cases e Gateways.
-* **Legacy17 - Gestão de Usuarios**: Backend escalável com criptografia BCrypt e deploy realizado em Render e Vercel.
-
----
-
-## 🚀 Filosofia
-
-> *"Código limpo e arquitetura bem definida não são luxos, são a base para sistemas que geram valor real e escalam com segurança."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
